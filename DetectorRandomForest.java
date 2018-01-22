@@ -3,8 +3,6 @@ import java.util.List;
 
 /*
  * This code implements the dog emotional detector RandomForest Class
- * 
- * @author Yang Fan
  * @version Jan, 2017
  */
 
