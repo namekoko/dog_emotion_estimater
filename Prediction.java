@@ -3,8 +3,6 @@
 /**
  * This class encapsulates the prediction returned by the Random Forest classifier
  * 
- * @author Martin Pielot
- * @version June 30, 2015
  */
 public class Prediction {
 
