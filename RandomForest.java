@@ -7,10 +7,7 @@ import java.util.Map;
 
 /**
  * This class implements the basic structure of the Random Forests. It contains methods to run the classification.
- * 
- * @author Martin Pielot
- * @version June 30, 2015
- */
+ 
 public abstract class RandomForest {
 	
 	public String MyClass;
